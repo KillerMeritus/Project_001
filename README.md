@@ -51,7 +51,7 @@ We are applying **Robotics Control Theory** to human assistance. By treating the
 ## 👥 The Team (Super 30 Batch)
 
 * **[Member 1 Name]** - *Frontend & Voice Interface* (React/JS, Web Speech API)
-* **Vivek [You]** - *Computer Vision & Logic* (YOLO, MediaPipe, OpenCV)
+* **Vivek** - *Computer Vision & Logic* (YOLO, MediaPipe, OpenCV)
 * **[Member 3 Name]** - *Audio Feedback & Integration* (Python Logic, TTS)
 
 ## 🔧 Installation (Dev Setup)
